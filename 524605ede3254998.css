@@ -1,0 +1,25 @@
+.Typewriter_cursor__AiYeZ {
+    animation: Typewriter_blinkingText__9hFU3 1s infinite
+}
+
+@keyframes Typewriter_blinkingText__9hFU3 {
+    0% {
+        opacity: 1
+    }
+
+    49% {
+        opacity: 1
+    }
+
+    60% {
+        opacity: 0
+    }
+
+    99% {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
